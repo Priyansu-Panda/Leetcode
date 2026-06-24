@@ -34,7 +34,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Priyansu-Panda/Leetcode/tree/master/0062-unique-paths) |
-| [0118-pascals-triangle](https://github.com/Priyansu-Panda/Leetcode/tree/master/0118-pascals-triangle) |
 ## Combinatorics
 |  |
 | ------- |
