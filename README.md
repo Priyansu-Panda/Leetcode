@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Priyansu-Panda/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Priyansu-Panda/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyansu-Panda/Leetcode/tree/master/0229-majority-element-ii) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Priyansu-Panda/Leetcode/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/Priyansu-Panda/Leetcode/tree/master/0118-pascals-triangle) |
 ## Combinatorics
 |  |
 | ------- |
