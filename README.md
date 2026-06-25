@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Priyansu-Panda/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Priyansu-Panda/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyansu-Panda/Leetcode/tree/master/0229-majority-element-ii) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Priyansu-Panda/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Priyansu-Panda/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyansu-Panda/Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
