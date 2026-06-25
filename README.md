@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Priyansu-Panda/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Priyansu-Panda/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Priyansu-Panda/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyansu-Panda/Leetcode/tree/master/0229-majority-element-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Priyansu-Panda/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Priyansu-Panda/Leetcode/tree/master/0062-unique-paths) |
 ## Dynamic Programming
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Priyansu-Panda/Leetcode/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Priyansu-Panda/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
