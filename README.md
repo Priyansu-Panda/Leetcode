@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyansu-Panda/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Priyansu-Panda/Leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Priyansu-Panda/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Priyansu-Panda/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Priyansu-Panda/Leetcode/tree/master/0169-majority-element) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Priyansu-Panda/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Priyansu-Panda/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Priyansu-Panda/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyansu-Panda/Leetcode/tree/master/0229-majority-element-ii) |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Priyansu-Panda/Leetcode/tree/master/0048-rotate-image) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Priyansu-Panda/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
