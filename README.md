@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Priyansu-Panda/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Priyansu-Panda/Leetcode/tree/master/0062-unique-paths) |
+| [0509-fibonacci-number](https://github.com/Priyansu-Panda/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Priyansu-Panda/Leetcode/tree/master/0062-unique-paths) |
+| [0509-fibonacci-number](https://github.com/Priyansu-Panda/Leetcode/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Priyansu-Panda/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Priyansu-Panda/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Priyansu-Panda/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
